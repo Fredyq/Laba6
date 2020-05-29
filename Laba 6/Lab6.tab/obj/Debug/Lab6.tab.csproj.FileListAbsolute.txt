@@ -1,0 +1,14 @@
+C:\Users\Вова\Desktop\Lab6.tab\bin\Debug\Lab6.tab.exe.config
+C:\Users\Вова\Desktop\Lab6.tab\bin\Debug\Lab6.tab.exe
+C:\Users\Вова\Desktop\Lab6.tab\bin\Debug\Lab6.tab.pdb
+C:\Users\Вова\Desktop\Lab6.tab\obj\Debug\Lab6.tab.csprojAssemblyReference.cache
+C:\Users\Вова\Desktop\Lab6.tab\obj\Debug\Lab6.tab.csproj.CoreCompileInputs.cache
+C:\Users\Вова\Desktop\Lab6.tab\obj\Debug\Lab6.tab.exe
+C:\Users\Вова\Desktop\Lab6.tab\obj\Debug\Lab6.tab.pdb
+C:\Users\Вова\Desktop\Laba 6\Lab6.tab\bin\Debug\Lab6.tab.exe.config
+C:\Users\Вова\Desktop\Laba 6\Lab6.tab\bin\Debug\Lab6.tab.exe
+C:\Users\Вова\Desktop\Laba 6\Lab6.tab\bin\Debug\Lab6.tab.pdb
+C:\Users\Вова\Desktop\Laba 6\Lab6.tab\obj\Debug\Lab6.tab.csprojAssemblyReference.cache
+C:\Users\Вова\Desktop\Laba 6\Lab6.tab\obj\Debug\Lab6.tab.csproj.CoreCompileInputs.cache
+C:\Users\Вова\Desktop\Laba 6\Lab6.tab\obj\Debug\Lab6.tab.exe
+C:\Users\Вова\Desktop\Laba 6\Lab6.tab\obj\Debug\Lab6.tab.pdb

@@ -137,23 +137,7 @@ namespace Tab
                 return bookType.none;
             }
         }
-        static decimal GetPrice(decimal left_limit, decimal right_limit)
-        {
-            decimal price = Decimal.MinValue;
-            while (!(price >= left_limit && price <= right_limit))
-            {
-                Console.Write($"Введите значение от {left_limit} до {right_limit}:");
-                try
-                {
-                    price = Convert.ToDecimal(Console.ReadLine());
-                }
-                catch
-                {
-                    Console.WriteLine("Попробуйте заново!");
-                }
-            }
-            return price;
-        }
+        
         static void ShowMenu()
         {
             Console.WriteLine("1 – Просмотр таблицы\n" +
